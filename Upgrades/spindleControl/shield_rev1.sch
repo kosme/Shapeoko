@@ -34,10 +34,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Spindle control shield for "
+Title "Spindle control shield for Shapeoko CNC"
 Date "2018-05-30"
 Rev "Rev1"
-Comp ""
+Comp "Hormiga Azul"
 Comment1 ""
 Comment2 ""
 Comment3 ""
